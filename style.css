@@ -87,7 +87,7 @@ body{
 .header{
     width: 380px;
     height: 70%;
-    background-image: url('https://render.fineartamerica.com/images/rendered/default/canvas-print/8/6.5/mirror/break/images/artworkimages/medium/1/sunrise-over-australian-lake-thomas-jones-canvas-print.jpg');
+    background-image: url('https://image.shutterstock.com/image-photo/colorful-flower-on-dark-tropical-600w-721703848.jpg');
     background-size: 100% 200%;
     background-repeat: no-repeat;
     border-radius: 15px 15px 0 0;
@@ -113,7 +113,7 @@ body{
     position: absolute;
     bottom: 10px;
     left: 10px;
-    color: yellow;
+    color: #FFF;
     font-size: 25px;
     font-family: 'Titillium Web', sans-serif;
 }
